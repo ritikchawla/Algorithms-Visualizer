@@ -2,7 +2,7 @@ An Algorithms Visualized made using Vue and TypeScript
 
 > # Live
 >
-> https://algos-viz.netlify.app/
+>https://algos-viz.netlify.app/
 
 # Demo
 
@@ -51,3 +51,6 @@ An Algorithms Visualized made using Vue and TypeScript
 ### Heaps
 
 1. Insertion and Deletion in a Minimum and Maximum Heap
+
+
+### Working on more
